@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsAPI</string>
+    <string name="select_category">Select category</string>
+    <string name="article_source">Source: %1$s</string>
+    <string name="article_author">Author: %1$s</string>
+    <string name="article_date">Date: %1$s</string>
+
+    <string name="image_description">image description</string>
+</resources>
